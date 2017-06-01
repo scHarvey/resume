@@ -1,4 +1,4 @@
-With over 15 years of experience doing everything from database design to web application development to my current position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company. I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and to the vision to see how to streamline troublesome processes. My goal is to be a guru for using technology to make lives easier, be it on the web or mobile applications, and to help mentor other developers.
+With over 15 years of experience doing everything from database design to web application development to my current position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company. I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and to the vision to see how to streamline troublesome processes.
 
 *   *   Web Development
     *   Mobile Application Development
@@ -27,7 +27,7 @@ With over 15 years of experience doing everything from database design to web ap
 
 #### Work History
 
-*   ##### Lead Application Developer (1/2016 - Current) @ [Voce Platforms](http://voceplatforms.com/)
+*   ##### Lead Application Developer (1/2016 - 6/2017) @ [Voce Platforms](http://voceplatforms.com/)
 
 *   *   Help lead a team of mainly WordPress developers in building high end sites
     *   Building WordPress VIP hosted websites for large scale and high traffic sites
@@ -57,11 +57,17 @@ With over 15 years of experience doing everything from database design to web ap
 
 #### Projects Highlights
 
+*   ##### June 2014 - Feb 2016 - Jeb!2016 - WordPress site
+
+*   *   ###### Highlights:
+
+    *   *   The team at Mittera was brought in to reboot a failed attempt at a campaign website. We worked hand in hand with the campaign digital staff, sometimes onsite in Miami, to build and constantly enhance the Jeb! website. Incorporating a new donation API system, adding a WooCommerce based storefront, and building custom reporting capabilities to fulfill the legal requirement of transparency that go with a national campaign of this scale.
+    
 *   ##### December 2013 - March 2014 - SAE - Mobile App
 
 *   *   ###### Highlights:
 
-    *   *   Our team at Catchfire Media built an iOS app for a national fraternity. We were involved from the beginning with early concepts of possible features and continued through the entire product lifecycle. I helped steer features and then the look and feel of the app and then built a WordPress based CMS to allow new content to be sent to the app. Additionally we leveraged the [Parse.com API](//parse.com) for user management, in app chat, a photo feed with user controlled content, and push notifications. I built apps into the WordPress system to allow SAE to upload their own images to the stream (like instagram) and to also compose push notifications without mucking around in the Parse.com back end.
+    *   *   Our team at Mittera built an iOS app for a national fraternity. We were involved from the beginning with early concepts of possible features and continued through the entire product lifecycle. I helped steer features and then the look and feel of the app and then built a WordPress based CMS to allow new content to be sent to the app. Additionally we leveraged the [Parse.com API](//parse.com) for user management, in app chat, a photo feed with user controlled content, and push notifications. I built apps into the WordPress system to allow SAE to upload their own images to the stream (like instagram) and to also compose push notifications without mucking around in the Parse.com back end.
 
 *   ##### March 2013 - May 2013 - [Principal Charity Classic](https://itunes.apple.com/us/app/principal-charity-classic/id644028244?mt=8)
 

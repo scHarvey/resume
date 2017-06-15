@@ -57,6 +57,12 @@ With over 15 years of experience doing everything from database design to web ap
 
 #### Projects Highlights
 
+*   ##### Sept 2016 - Nov 2016 - Waukee APEX Program
+
+*   *   ###### Highlights:
+
+    *   *   Developed a short curriculum to teach an advanced high school program in Waukee, Iowa, the basics of software development using pseudo code and PHP to help them further customize some of the WordPress themes that they were developing for "clients". Developed the curriculum, hosted on [github](https://github.com/scHarvey/todo) so that students could have a working version of the demo projects that we then built in class.
+
 *   ##### June 2014 - Feb 2016 - Jeb!2016 - WordPress site
 
 *   *   ###### Highlights:

@@ -1,4 +1,4 @@
-With over 15 years of experience doing everything from database design to web application development to my current position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company. I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and to the vision to see how to streamline troublesome processes.
+With over 15 years of experience doing everything from database design to web application development to my most recent position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company. I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and to the vision to see how to streamline troublesome processes. My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and help fix them before any real work is actually done.
 
 *   *   Web Development
     *   Mobile Application Development
@@ -61,14 +61,14 @@ With over 15 years of experience doing everything from database design to web ap
 
 *   *   ###### Highlights:
 
-    *   *   Developed a short curriculum to teach an advanced high school program in Waukee, Iowa, the basics of software development using pseudo code and PHP to help them further customize some of the WordPress themes that they were developing for "clients". Developed the curriculum, hosted on [github](https://github.com/scHarvey/todo) so that students could have a working version of the demo projects that we then built in class.
+    *   *   Developed a short curriculum to teach an advanced high school program in Waukee, Iowa, the basics of software development using pseudo code and PHP to help them further customize some of the WordPress themes that they were developing for "clients". Developed the curriculum, hosted on [github](https://github.com/scHarvey/todo) so that students could have a working version of the demo projects that we then built in class, and then taught 3-4 face to face sessions with the class where we worked through lessons and then broke off for individual Q&A so students could see how the lessons applied to their particular project at the time.
 
 *   ##### June 2014 - Feb 2016 - Jeb!2016 - WordPress site
 
 *   *   ###### Highlights:
 
     *   *   The team at Mittera was brought in to reboot a failed attempt at a campaign website. We worked hand in hand with the campaign digital staff, sometimes onsite in Miami, to build and constantly enhance the Jeb! website. Incorporating a new donation API system, adding a WooCommerce based storefront, and building custom reporting capabilities to fulfill the legal requirement of transparency that go with a national campaign of this scale.
-    
+
 *   ##### December 2013 - March 2014 - SAE - Mobile App
 
 *   *   ###### Highlights:
@@ -100,7 +100,7 @@ With over 15 years of experience doing everything from database design to web ap
     *   ###### Highlights:
 
     *   *   Creation of a web based reporting tool that takes data from a purchased workflow system and translates it into usable reports via mySQL and PHP. Tool includes csv and pdf exporting of reports along side of the PHP generated pages.Recently this app has been updated further to include a new process to batch create PDFs of client reports which are then hosted on an existing site of our client.
-    
+
         *   Transition of existing web applications from dynamic SQL generated inside of ASP pages to Stored Procedures called from those ASP pages. This enabled us to take one particular job that ran for multiple hours down to a 15 minute process.
 
 *   ##### May 2002 - February 2003

@@ -1,5 +1,6 @@
-# Clint Harvey
 sclintharvey@gmail.com
+
+# Introduction
 
 > With over 15 years of experience doing everything from database design to web application development to my most recent position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company.
 >

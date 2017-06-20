@@ -2,11 +2,11 @@ sclintharvey@gmail.com
 
 # Introduction
 
-> With over 15 years of experience doing everything from database design to web application development to my most recent position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a value to any company.
+> With over 15 years of experience doing everything from database design to web application development to my most recent position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a valuable asset to any company.
 >
-> I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and to the vision to see how to streamline troublesome processes.
+> I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and possessing the vision to see how to streamline troublesome processes.
 >
-> My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and help fix them before any real work is actually done.
+> My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and fix them before any real work is done.
 
 -   Web Development
 -   Mobile Application Development

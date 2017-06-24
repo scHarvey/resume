@@ -22,7 +22,6 @@ sclintharvey@gmail.com
 
 -   PHP
 -   JavaScript
--   Obj-C
 -   SQL (MSSQL, MySQL, Oracle)
 
 #### Frameworks/APIs:

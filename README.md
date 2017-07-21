@@ -1,4 +1,4 @@
-sclintharvey@gmail.com
+clint@clintharvey.net
 
 # Introduction
 

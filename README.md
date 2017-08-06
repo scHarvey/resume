@@ -36,10 +36,12 @@ clint@clintharvey.net
 #### Worked With But Not a Master Of
 
 -   React
+-   Node
 -   Obj-C
 -   Vagrant
 -   Docker
 -   Jest - Testing
+-   Webpack
 
 ---
 

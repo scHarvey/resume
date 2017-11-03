@@ -47,6 +47,14 @@ clint@clintharvey.net
 
 ## Work History
 
+##### Solutions Architect (10/2017 - Present) @ [Wellmark](http://www.wellmark.com/)
+
+-   Lead the architectural designs (solution context diagram and conceptual data model) for solutions to optimize security, information leverage and re-use, integration, performance, and availability and ensure solutions developed adhere and aligns to the delivered architecture. Fulfill service level agreements and ensure solutions remains current with industry best practices, technologies and with Wellmark’s standards.
+-   Consult and influence application teams regarding solutions. Collaborate with Tm Ldr & Lead Architect to design and implement effective technology solutions, while using innovative business and technology processes to identify and implement improvement initiatives, eliminate redundancies and maximizes re-use of applications.
+-   Will oversee and lead planning, developing and estimating of technical solutions. When appropriate, collaborate and work with other technical teams in to better provide subject matter expertise and insights.
+-   Develops architecture models and technical standards that enable the transition of Wellmark’s systems from current state to future requirements. Will collaborate with Lead Architect for assigned domain, business systems analyst and other stakeholders to provide insight/ direction regarding process improvements.
+-   Consults with business stakeholders regarding subject matter knowledge related to project tasks, schedules/status updates and technical planning to ensure architectures are developed in alignment with business expectations.
+
 ##### Lead Application Developer (1/2016 - 6/2017) @ [Voce Platforms](http://voceplatforms.com/)
 
 -   Helped lead a team of mainly WordPress developers in building high end sites

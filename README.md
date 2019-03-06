@@ -97,7 +97,7 @@ clint@clintharvey.net
 
 ## Projects Highlights
 
-## February 2018 - February 2019 - [MyWellmark](https://mywellmark.com)
+## February 2018 - February 2019 - [MyWellmark](https://www.wellmark.com/mywellmark)
 > Architected and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
 
 ### Sept 2016 - Nov 2016 - Waukee APEX Program

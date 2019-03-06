@@ -8,6 +8,8 @@ clint@clintharvey.net
 >
 > My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and address them before any real work is done.
 
+- Solution/Software Architecture
+  - AWS Certified
 - Web Development
 - Mobile Application Development
 - Social Networking
@@ -20,28 +22,30 @@ clint@clintharvey.net
 
 ### Languages
 
-- PHP
 - JavaScript
+- PHP
 - SQL (MSSQL, MySQL, Oracle)
 
 ### Frameworks/APIs
 
+- Angular
+- React
+- Node
 - WordPress
+- Jest - Testing
+- Webpack
 - jQuery
+- Obj-C
 - Twitter API
 - Instagram API
 - Stripe
 - Revv
 
-### Worked With But Not a Master Of
-
-- React
-- Node
-- Obj-C
-- Vagrant
+### DevOps
+- Cloudformation
+- Serverless
 - Docker
-- Jest - Testing
-- Webpack
+- Vagrant
 
 ---
 
@@ -92,6 +96,9 @@ clint@clintharvey.net
 ---
 
 ## Projects Highlights
+
+## February 2018 - February 2019 - [MyWellmark](https://mywellmark.com)
+> Architected and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
 
 ### Sept 2016 - Nov 2016 - Waukee APEX Program
 

@@ -2,24 +2,20 @@ clint@clintharvey.net
 
 # Introduction
 
-> With over 15 years of experience doing everything from database design to web application development to my most recent position as Lead Application Developer, I have developed, and continue to expand, a broad array of skills that I feel make me a valuable asset to any company.
+> With over 20 years of experience doing everything from database design to web application development to my most recent position as Solution Architect, I have developed, and continue to expand, a broad array of skills that I feel make me a valuable asset to any company.
 >
-> I'm a highly talented and well rounded individual with a proven ability to meet and beat deadlines, the ability to transform abstract ideas into real world applications, and possessing the vision to see how to streamline troublesome processes.
+> I'm a highly talented and well rounded technical individual with the rare ability to speak directly to business owners or customers so that all sides of a project are speaking the same language, the ability to transform abstract ideas into real world applications, and possessing the vision to see solutions to the problems customers are presenting.
 >
 > My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and address them before any real work is done.
 
 - Solution/Software Architecture
-  - AWS Certified
+  - AWS Certified (3/18 - 3/21)
 - Web Development
 - Mobile Application Development
 - Social Networking
 - Needs Assessment
 - Project Scoping
-- Project Management
-- DevOps (Yarn, Grunt)
-
 ## Technologies
-
 ### Languages
 
 - JavaScript
@@ -32,7 +28,7 @@ clint@clintharvey.net
 - React
 - Node
 - WordPress
-- Jest - Testing
+- Jest
 - Webpack
 - jQuery
 - Obj-C
@@ -53,25 +49,26 @@ clint@clintharvey.net
 
 ### Solutions Architect (10/2017 - Present) @ [Wellmark](http://www.wellmark.com/)
 
-- Lead the architectural designs (solution context diagram and conceptual data model) for solutions to optimize security, information leverage and re-use, integration, performance, and availability and ensure solutions developed adhere and aligns to the delivered architecture. Fulfill service level agreements and ensure solutions remains current with industry best practices, technologies and with Wellmark’s standards.
-- Consult and influence application teams regarding solutions. Collaborate with Tm Ldr & Lead Architect to design and implement effective technology solutions, while using innovative business and technology processes to identify and implement improvement initiatives, eliminate redundancies and maximizes re-use of applications.
-- Will oversee and lead planning, developing and estimating of technical solutions. When appropriate, collaborate and work with other technical teams in to better provide subject matter expertise and insights.
-- Develops architecture models and technical standards that enable the transition of Wellmark’s systems from current state to future requirements. Will collaborate with Lead Architect for assigned domain, business systems analyst and other stakeholders to provide insight/ direction regarding process improvements.
-- Consults with business stakeholders regarding subject matter knowledge related to project tasks, schedules/status updates and technical planning to ensure architectures are developed in alignment with business expectations.
+- Work with business stakeholders to identify solutions to their problems
+- Develop and maintain enterprise architecture standards
+- Explore emerging technologies and AWS products to determine how they can best be leveraged by our organization
+- Design solutions to complex problems and work with development teams to see them through from prototype to production
+- Optimize solutions for performance and cost
 
 ### Lead Application Developer (1/2016 - 6/2017) @ [Voce Platforms](http://voceplatforms.com/)
 
-- Helped lead a team of mainly WordPress developers in building high end sites
+- Helped lead a team of mainly WordPress developers in building high end sites for customers including Disney Parks, Madison Square Gardens, and Xbox
 - Built WordPress VIP hosted websites for large scale and high traffic sites
 - Responded to RFPs
 - Scoped incoming projects
 
 ### Lead Developer (5/2010 - 1/2016) @ [Mittera](http://www.mittera.com)
 
-- Lead a development team to create tools to help our clients communicate better with their customers
-- Created websites, web applications, mobile sites, and mobile applications for a wide variety of clients
-- Investigated new social networks and figure out how they could be leveraged for our clients
-- Learned and educated my team on API tools to quickly tie our clients sites to existing social platforms
+- Lead a development team to create tools to improve our clients communication and interactions with their customers.
+- Created websites, web applications, mobile sites, and mobile applications for a wide variety of clients like Scheels, SNHU, and Jeb! 2016.
+- Investigated new social networks to figure out how they could be leveraged for our clients
+- Passed on my knowledge and experience to my team via code samples, mentoring, and individual coaching
+- Met directly with clients to access their needs and pitch our solutions
 
 ### IT Director (7/2002 - 4/2010) @ J.W. Hutton, St. Charles, IA (purchased by United Healthcare)
 
@@ -97,8 +94,10 @@ clint@clintharvey.net
 
 ## Projects Highlights
 
+## March 2019 - December 2020 - Frontier (Wellmark's Customer Service implementation of Dynamics 365)
+> Worked with business and technical stakeholders to analyze project needs/requirements. Worked with consulting team from both Accenture to design the best solution for fitting Dynamics 365 into our enterprise. Designed a holistic solution that involved moving data into Dynamics environment on both batch and near real time timelines, creating custom applications, launched from within Dynamics, to give users a better view into Wellmark data that was not suitable for storage in Dynamics, and data export processes for both syncing changes within Dynamics back to Wellmark systems and for analytics/reporting. Then worked with a Cognizant consulting team to build the AWS based pipelines to enable the overall design. This involved creating several new enterprise patterns that have become standards for reuse in the organization and helped drive the enterprise adoption of SNS/SQS and Lambda.
 ## February 2018 - February 2019 - [MyWellmark](https://www.wellmark.com/mywellmark)
-> Architected and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
+> Designed solutions and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
 
 ### Sept 2016 - Nov 2016 - Waukee APEX Program
 

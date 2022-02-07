@@ -47,7 +47,7 @@ clint@clintharvey.net
 
 ## Work History
 
-### Solutions Architect (10/2017 - Present) @ [Wellmark](http://www.wellmark.com/)
+### Solution Architect (10/2017 - Present) @ [Wellmark](http://www.wellmark.com/)
 
 - Work with business stakeholders to identify solutions to their problems
 - Develop and maintain enterprise architecture standards

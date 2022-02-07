@@ -2,7 +2,7 @@ clint@clintharvey.net
 
 # Introduction
 
-> With over 20 years of experience doing everything from database design to web application development to my most recent position as Solution Architect, I have developed, and continue to expand, a broad array of skills that I feel make me a valuable asset to any company.
+> With over 20 years of experience doing everything from database design to web application development to my most recent position as Solution Architect, I have developed, and continue to expand, a broad array of skills that make me a valuable asset to any company.
 >
 > I'm a highly talented and well rounded technical individual with the rare ability to speak directly to business owners or customers so that all sides of a project are speaking the same language, the ability to transform abstract ideas into real world applications, and possessing the vision to see solutions to the problems customers are presenting.
 >

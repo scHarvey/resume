@@ -4,12 +4,12 @@ clint@clintharvey.net
 
 > With over 20 years of experience doing everything from database design to web application development to my most recent position as Solution Architect, I have developed, and continue to expand, a broad array of skills that make me a valuable asset to any company.
 >
-> I'm a highly talented and well rounded technical individual with the rare ability to speak directly to business owners or customers so that all sides of a project are speaking the same language, the ability to transform abstract ideas into real world applications, and possessing the vision to see solutions to the problems customers are presenting.
+> As a highly talented and well-rounded technical individual, I possess the ability to meet directly with business owners and customers so that all sides of a project are understood and speaking the same language. I can convey business concepts to the technical team to help construct actionable technical requirements and technical concepts to the business team to help them better understand the solution and set the right expectations. I have the ability to transform abstract ideas into real world solutions, and posses the vision to see solutions to the problems customers are presenting.
 >
-> My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also made me able to help analyze a project to find flaws in the concept and address them before any real work is done.
+> My varied work history has exposed me to multiple lines of business that have not only made me a better developer, but also make me a mentor to junior developers and other technical team members that may have had more siloed technical experiences and haven't learned to see problems from the customer's perspective.
 
 - Solution/Software Architecture
-  - AWS Certified (3/18 - 3/21)
+  - AWS Certified (3/2018 - 3/2021)
 - Web Development
 - Mobile Application Development
 - Social Networking

@@ -36,15 +36,19 @@ clint@clintharvey.net
 ## Projects Highlights
 
 ## July 2022 - December 2024 - Frontier Sales (Wellmark's Sales implementation of Dynamics 365)
+
 > As the Lead Architect, I spearheaded the design and implementation of a comprehensive Sales CRM solution based on Dynamics 365. This involved collaboratively working with both full-time employee developers and external implementation contractors to architect the system, define data models, and customize workflows to meet specific business requirements. My responsibilities included ensuring architectural integrity, guiding the development team, and facilitating seamless integration of Dynamics 365 with existing enterprise systems throughout the implementation lifecycle.
 
 ## January 2022 - December 2022 - Pattern Design 
+
 > Drove an enterprise-level effort to define, document, and implement a standardized message-based integration pattern based on AWS SNS and SQS. This strategic effort provided a scalable and fault-tolerant framework for asynchronous communication between any application in the enterprise, improving the agility and maintainability of our enterprise systems while eliminating reliance on long batch processes and the lag time they introduced into our integrations.
 
 ## March 2019 - December 2020 - Frontier (Wellmark's Customer Service implementation of Dynamics 365)
+
 > Worked with business and technical stakeholders to analyze project needs/requirements. Worked with consulting team from both Accenture to design the best solution for fitting Dynamics 365 into our enterprise. Designed a holistic solution that involved moving data into Dynamics environment on both batch and near real time timelines, creating custom applications, launched from within Dynamics, to give users a better view into Wellmark data that was not suitable for storage in Dynamics, and data export processes for both syncing changes within Dynamics back to Wellmark systems and for analytics/reporting. Then worked with a Cognizant consulting team to build the AWS based pipelines to enable the overall design. This involved creating several new enterprise patterns that have become standards for reuse in the organization and helped drive the enterprise adoption of SNS/SQS and Lambda.
 
 ## February 2018 - February 2019 - [MyWellmark](https://www.wellmark.com/mywellmark)
+
 > Designed solutions and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
 
 ### Sept 2016 - Nov 2016 - Waukee APEX Program

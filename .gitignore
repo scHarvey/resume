@@ -1,3 +1,4 @@
 # IDE FILES #
 #############
 .idea
+.DS_Store

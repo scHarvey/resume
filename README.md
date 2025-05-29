@@ -8,7 +8,8 @@ clint@clintharvey.net
   - AWS Certified (3/2018 - 3/2021)
 - Needs Assessment
 - Project Scoping
-
+- Feature and Solution Advocacy
+- Timeline Alignment
 
 ---
 

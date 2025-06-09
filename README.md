@@ -1,4 +1,4 @@
-[clint@clintharvey.net](mailto://clint@clintharvey.net) | [linkedin](https://www.linkedin.com/in/scharvey/)
+[clint@clintharvey.net](mailto://clint@clintharvey.net) : [linkedin](https://www.linkedin.com/in/scharvey/)
 
 ## Summary
 

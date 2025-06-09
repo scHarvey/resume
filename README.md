@@ -1,87 +1,80 @@
 clint@clintharvey.net
 
-## Introduction
+## Summary
 
-> Highly accomplished technical leader with 20+ years of experience spanning database architecture to web application innovation and, most recently, solution architecture. I excel at fostering clear communication between business owners, customers, and technical teams, ensuring a shared understanding of project goals. My ability to translate abstract ideas into actionable technical requirements and solutions and articulate those solutions to business stakeholders drives effective project execution and alignment.
+> With over two decades of experience spanning infrastructure, application development, and enterprise architecture, I bring a systems-level mindset to modern software challenges. My specialty is designing scalable, maintainable, and secure platforms that serve business goals — whether that’s a customer portal, a CRM, or a company-wide integration layer.
 
-- Solution/Software Architecture
-  - AWS Certified (3/2018 - 3/2021)
-- Needs Assessment
-- Project Scoping
-- Feature and Solution Advocacy
-- Timeline Alignment
+> I’ve led projects from startup-scale websites to enterprise CRM migrations, and I thrive at the intersection of technical precision and business clarity. As a remote contributor since 2020, I collaborate fluidly across time zones and partner with vendors, in-house teams, and stakeholders to deliver architecture that lasts.
+
+> I specialize in event-based design, serverless infrastructure, and API-first systems — and I enjoy working through the technical and human factors that make systems succeed.
+
+### Technical Strengths
+  
+  - Architecture: Event-Based Systems, Serverless Infrastructure, Solution & Enterprise Design
+  - Cloud Platforms: AWS (Lambda, SNS/SQS, ECS, CloudFront, API Gateway), Dynamics 365, WordPress VIP
+  - Dev Languages & Tools: Node.js, Angular, PHP, SQL, Git
+  - Patterns: API Design, Messaging Systems, Systems Integration, CI/CD Pipelines
+  - Collaboration: Cross-Functional Leadership, Remote Team Management, Stakeholder Engagement
 
 ---
 
 ## Work History
 
-### Solution Architect (10/2017 - Present) @ [Wellmark](http://www.wellmark.com/)
+### Solution Architect (10/2017 - Present) @ Wellmark Blue Cross & Blue Shield
 
-> Partnered with business stakeholders to translate needs into strategic technical solutions. Established and governed enterprise architecture standards to drive consistency and future-readiness. Spearheaded the exploration and evaluation of emerging technologies and AWS offerings for organizational advantage. Architected and guided the development of complex solutions from prototype to production, ensuring alignment with business objectives. Drove ongoing optimization efforts to maximize solution performance and minimize costs.
+> At Wellmark, I’ve led the design and implementation of enterprise systems across multiple business units, including Sales and Customer Service. These systems were built primarily on Microsoft Dynamics 365 and extended with custom development and near real-time AWS-based data integrations.
+
+> My architecture work has focused on enabling flexibility and performance at scale: I introduced message-based integration using AWS SNS/SQS, which eliminated legacy batch jobs and unlocked asynchronous, fault-tolerant communication. I guided our internal developers and consulting partners (Accenture, Cognizant) through complex implementations while ensuring architectural integrity. In parallel, I drove the full rebuild of Wellmark’s customer portal (MyWellmark), re- architecting it into a modern, cloud-based application with an Angular front end, Node APIs, and AWS infrastructure (Lambda, API Gateway, ECS, DynamoDB, RDS). I’m also deeply involved in architecture governance, reusable pattern documentation, and mentorship across the engineering org.
 
 ### Lead Application Developer (1/2016 - 6/2017) @ Voce Platforms
 
-> Spearheaded the development of sophisticated websites for premier clients such as Disney Parks, Madison Square Garden, and Xbox, guiding a team of developers to deliver exceptional results. Expertly built and deployed high-performance WordPress VIP hosted websites optimized for large audiences and traffic demands. Played a key role in securing new business by crafting compelling responses to RFPs and accurately scoping incoming projects.
+> At Voce Platforms, I led web development for digital campaigns by brands like Disney Parks, Madison Square Garden, and Xbox. I architected high-performance WordPress VIP websites tailored for large traffic volumes and interactive design requirements. I also worked directly on technical responses to RFPs and helped scope new engagements, functioning as both lead developer and technical strategist.
 
-### Lead Developer (5/2010 - 1/2016) @ [Mittera](http://www.mittera.com)
+### Lead Developer (5/2010 - 1/2016) @ Mittera
 
-> Built and led a development team in building impactful tools that streamlined client communication and enriched customer experiences. Demonstrated technical versatility by architecting and developing websites, web applications, mobile sites, and mobile applications for a wide range of clients, including Scheels, SNHU, and Jeb! 2016. Conducted exploratory research into new social media platforms to determine their potential value for client strategies. Mentored and coached development team members, sharing expertise through code examples and personalized guidance to elevate their skills. Collaborated directly with clients to assess their objectives and persuasively present relevant solutions.
+> Mittera was where I wore many hats. I built custom CMS platforms, mobile apps, campaign tools, and media experiences for clients like SNHU, Scheels, and the Jeb! 2016 campaign. I architected and deployed projects using PHP, WordPress, custom APIs, and mobile frameworks. I also coached developers, led client discovery sessions, and integrated social APIs (Facebook, Twitter, Parse) to create user-driven, interactive platforms.
 
 ### IT Director (7/2002 - 4/2010) @ J.W. Hutton, St. Charles, IA (purchased by United Healthcare)
 
-> Active Directory domain, ensuring system stability and security. Championed the identification and implementation of workflow automation initiatives, significantly enhancing organizational efficiency. Managed the lifecycle of database systems (MSSQL, MySQL, Access), ensuring data integrity and accessibility. Strategically directed the research, evaluation, and procurement of IT hardware (servers, networking, peripherals) to support business growth and technological advancements. 
+> As the sole IT lead, I managed infrastructure, purchasing, application development, and database administration for a 50-person insurance services company. I introduced workflow automation, overhauled reporting systems and work intake systems, and migrated legacy Excel and Access systems to more efficient web applications with MSSQL backends — cutting processing times by 90% in key areas.
 
 
 ---
 
 ## Projects Highlights
 
-### July 2022 - December 2024 - Frontier Sales (Wellmark's Sales implementation of Dynamics 365)
+### July 2022 - December 2024 - Frontier Sales CRM
 
-> As the Lead Architect, I spearheaded the design and implementation of a comprehensive Sales CRM solution based on Dynamics 365. This involved collaboratively working with both full-time employee developers and external implementation contractors to architect the system, define data models, and customize workflows to meet specific business requirements. My responsibilities included ensuring architectural integrity, guiding the development team, and facilitating seamless integration of Dynamics 365 with existing enterprise systems throughout the implementation lifecycle.
+> Designed and led the full implementation of a Sales CRM built on Dynamics 365.
 
-### January 2022 - December 2022 - Pattern Design 
+> Worked with internal and external teams to define data models, customize workflows, and integrate with enterprise systems. Ensured performance, reusability, and maintainability of architecture.
 
-> Drove an enterprise-level effort to define, document, and implement a standardized message-based integration pattern based on AWS SNS/SQS. This strategic effort provided a scalable and fault-tolerant framework for asynchronous communication between any application in the enterprise, improving the agility and maintainability of our enterprise systems while eliminating reliance on long batch processes and the lag time they introduced into our integrations.
+### January 2022 - December 2022 - Enterprise Message Based Integration Pattern Design 
 
-### March 2019 - December 2020 - Frontier (Wellmark's Customer Service implementation of Dynamics 365)
+> Established and documented a new org-wide message-based integration pattern using AWS SNS/SQS. Replaced brittle batch processes with scalable, asynchronous pipelines. The pattern was adopted across multiple teams.
 
-> Worked with business and technical stakeholders to analyze project needs/requirements. Worked with consulting team from Accenture to design the best solution for fitting Dynamics 365 into our enterprise. Designed a holistic solution that involved moving data into Dynamics environment on both batch and near real time timelines, creating custom applications, launched from within Dynamics, to give users a better view into Wellmark data that was not suitable for storage in Dynamics, and data export processes for both syncing changes within Dynamics back to Wellmark systems and for analytics/reporting. Then worked with a Cognizant consulting team to build the AWS based pipelines to enable the overall design. This involved creating several new enterprise patterns that have become standards for reuse in the organization and helped drive the enterprise adoption of SNS/SQS and Lambda.
+### March 2019 - December 2020 - Frontier Customer Service CRM
 
-### February 2018 - February 2019 - [MyWellmark](https://www.wellmark.com/mywellmark)
+> Collaborated with Accenture and Cognizant to implement Dynamics 365 Customer Service functionality, embedded custom data viewers, and built AWS pipelines for data sync and analytics. Resulted in faster issue resolution and stronger data visibility.
 
-> Designed solutions and provided developer oversight and governance to the rebuilding of Wellmark's member portal from a .Net application with on premises servers and APIs to an angular front end with node APIs built within an AWS cloud. Utilizes Cloudfront, S3, API Gateway, Lambda, ECS, DynamoDB, RDS. 
+### February 2018 - February 2019 - MyWellmark Portal Migration
 
-### Sept 2016 - Nov 2016 - Waukee APEX Program
+> Rebuilt a legacy .NET member portal using Angular, Node.js APIs, and AWS services (Lambda, API Gateway, ECS, DynamoDB). The modernized architecture improved reliability, security, and user experience.
 
-> Developed a short curriculum to teach an advanced high school program in Waukee, Iowa, the basics of software development using pseudo code and PHP to help them further customize some of the WordPress themes that they were developing for "clients". Developed the curriculum, hosted on github so that students could have a working version of the demo projects that we then built in class, and then taught 3-4 face to face sessions with the class where we worked through lessons and then broke off for individual Q&A so students could see how the lessons applied to their particular project at the time.
+### June 2014 - Feb 2016 - Jeb!2016 Presidential Campaign Site
 
-### June 2014 - Feb 2016 - Jeb!2016 - WordPress site
-
-> The team at Mittera was brought in to reboot a failed attempt at a campaign website. We worked hand in hand with the campaign digital staff, sometimes onsite in Miami, to build and constantly enhance the Jeb! website. Incorporating a new donation API system, adding a WooCommerce based storefront, and building custom reporting capabilities to fulfill the legal requirement of transparency that go with a national campaign of this scale.
-
-### December 2013 - March 2014 - SAE - Mobile App
-
-> Our team at Mittera built an iOS app for a national fraternity.
->
-> We were involved from the beginning with early concepts of possible features and continued through the entire product lifecycle. I helped steer features and then the look and feel of the app and then built a WordPress based CMS to allow new content to be sent to the app. Additionally we leveraged the Parse.com API for user management, in app chat, a photo feed with user controlled content, and push notifications. I built apps into the WordPress system to allow SAE to upload their own images to the stream (like Instagram) and to also compose push notifications without mucking around in the Parse.com back end.
+> Joined the digital team to overhaul the campaign site. Integrated a donation API, built a WooCommerce store, and enabled real-time reporting to meet compliance requirements. Served as technical lead working alongside the campaign’s digital staff.
 
 ### March 2013 - May 2013 - Principal Charity Classic - Mobile Application
 
-> In addition to help developing the look and feel for the app I was tasked with creating a CMS with an API to allow the client to create and edit content easily and have it seamlessly feed into both an iPhone and an Android application. Leveraging the power of WordPress I created custom post types for each content type and then created a custom template that creates an XML feed in the format expected by both apps. In addition to being able to request all the data in each particular feed you're able to send a "last update date" parameter and only get items that have changed since you last called home. We also use this system to create a Foursquare like checkin service that allows users to announce to other app users that they're at a particular location and then see other users at that location. We also hook into the Facebook API to highlight the user's friends that are checked in.
+> Built a CMS and XML API to serve both iOS and Android apps. Implemented a check-in system and Facebook API integration. Developed delta-feed logic for app refresh efficiency.
 
 ### March 2012 - September 2012 - ScheelsSocial - Fish Tales
 
-> Creation of a WordPress based site that is the backend for an in store experiential photo booth powered by an augmented reality iPad app that I oversaw the development of. The WordPress site allows the app to submit new photos as custom posts and creates an Instagram like experience for the users, creating a single image page with social sharing buttons and a personalized message. Two minutes after the photo is submitted an email is sent to the user with a shortened URL to their photo. Another web service was created to allow the iPad to pull down a slideshow of recent images to act as an in store attractor loop.Since the launch of the photo booth in a single store it has averaged over 1000 photos a week, and we are currently working to roll it out to 2 other stores, with more to follow in the following months.
+> Architected a WordPress + iPad app integration for in-store photo sharing. Created custom post types, image hosting, social sharing, and slideshow functionality.
 
-### January 2012 - February 2012 - FollowEDU - Website
 
-> Creation of a WordPress based site that allows users to register their twitter account and see who is influential in various topics that matter to the higher education marketplace.Simple easy to understand user interface and hooks to the twitter API to get recent tweets, twitter followers, and Klout score.
+## Education & Certifications
 
-### September 2002 - April 2010 - J.W. Hutton
-
-> Various projects as the sole IT person at a company of 50 employees. Tasks include: installing a new windows 2003 server as both a file/app server and a domain controller, installation of a hardware based firewall to replace an aging linux firewall, purchasing and installation of new client machines to replace dated hardware as needed, consultation on the feasibility of different ideas and partnerships brought to me by the owner of the company, and various other tasks of both an IT Director and a computer tech.
->
-> Creation of a web based reporting tool that takes data from a purchased workflow system and translates it into usable reports via mySQL and PHP. Tool includes csv and pdf exporting of reports along side of the PHP generated pages.Recently this app has been updated further to include a new process to batch create PDFs of client reports which are then hosted on an existing site of our client.
->
-> Transition of existing web applications from dynamic SQL generated inside of ASP pages to Stored Procedures called from those ASP pages. This enabled us to take one particular job that ran for multiple hours down to a 15 minute process.
+  - AWS Certified Solutions Architect – Associate (2018–2021)
+  - B.S., Computer Information Systems – Simpson College (1999)
